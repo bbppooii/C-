@@ -1,0 +1,5 @@
+﻿  Date.cpp
+  test.cpp
+  正在生成代码...
+C:\Users\31173\Desktop\Date类\Date.cpp(135): warning C4715: “Date::operator<”: 不是所有的控件路径都返回值
+  Date.vcxproj -> C:\Users\31173\Desktop\Date类\x64\Debug\Date.exe
