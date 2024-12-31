@@ -1,0 +1,4 @@
+﻿  源.cpp
+C:\Users\31173\Desktop\无关键字及条件判断语句的1.n\源.cpp(20,17): error C2131: 表达式的计算结果不是常数
+C:\Users\31173\Desktop\无关键字及条件判断语句的1.n\源.cpp(20,17): message : 因读取超过生命周期的变量而失败
+C:\Users\31173\Desktop\无关键字及条件判断语句的1.n\源.cpp(20,17): message : 请参见“n”的用法
