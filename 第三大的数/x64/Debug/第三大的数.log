@@ -1,0 +1,5 @@
+﻿  源.cpp
+C:\Users\31173\Desktop\第三大的数\源.cpp(3,18): error C2065: “LONG_MIN”: 未声明的标识符
+C:\Users\31173\Desktop\第三大的数\源.cpp(4,19): error C2065: “LONG_MIN”: 未声明的标识符
+C:\Users\31173\Desktop\第三大的数\源.cpp(5,18): error C2065: “LONG_MIN”: 未声明的标识符
+C:\Users\31173\Desktop\第三大的数\源.cpp(20,22): error C2065: “LONG_MIN”: 未声明的标识符
