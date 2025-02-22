@@ -1,0 +1,4 @@
+﻿  源.cpp
+C:\Users\31173\Desktop\区间部分翻转\源.cpp(4,12): error C3646: “reverseStr”: 未知重写说明符
+C:\Users\31173\Desktop\区间部分翻转\源.cpp(4,22): error C2059: 语法错误:“(”
+C:\Users\31173\Desktop\区间部分翻转\源.cpp(4,40): error C2334: “{”的前面有意外标记；跳过明显的函数体
