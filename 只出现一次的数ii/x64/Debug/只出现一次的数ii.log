@@ -1,0 +1,3 @@
+﻿  源.cpp
+C:\Users\31173\Desktop\只出现一次的数ii\源.cpp(19,12): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+  只出现一次的数ii.vcxproj -> C:\Users\31173\Desktop\只出现一次的数ii\x64\Debug\只出现一次的数ii.exe
